@@ -21,4 +21,5 @@ Criado usando **EasyEDA** para criação do esquemático e roteamento do layout.
 Este projeto foi desenvolvido apenas para fins educativos e não possui restrições de uso.
 
 <br>
+
 📌 **Autor:** Tiago Lauriano Copelli  
