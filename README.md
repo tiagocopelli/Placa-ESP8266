@@ -7,7 +7,8 @@ Projeto desenvolvido para estudo e prática de design de **placas de circuito im
 Criado usando **EasyEDA** para criação do esquemático e roteamento do layout.
 
 ## 🖼️ Imagem do Projeto
-![Placa PCB](https://github.com/tiagocopelli/Placa-ESP8266/blob/main/Placa1.jpg)
+![Placa PCB](https://github.com/tiagocopelli/Placa-ESP8266/blob/main/Imagens/Placa1.jpg)
+Imagens/Placa1.jpg
 
 ## 🛠️ Tecnologias Utilizadas
 - **Software:** EasyEDA
