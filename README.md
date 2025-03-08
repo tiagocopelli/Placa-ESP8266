@@ -1,6 +1,5 @@
 # Placa PCB para Estudos de Circuitos Eletrônicos
-
-# Placa-ESP8266
+Placa-ESP8266
 
 ## 📌 Descrição
 Projeto desenvolvido para estudo e prática de design de **placas de circuito impresso (PCB)**.  
@@ -15,7 +14,6 @@ Criado usando **EasyEDA** para criação do esquemático e roteamento do layout.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Software:** EasyEDA
-- **Componentes:** Resistores, Capacitores, Regulador de tensão
 - **Objetivo:** Aprender design e fabricação de PCBs
 
 ## 📜 Licença
