@@ -1,6 +1,6 @@
 ## Placa-ESP8266
 
-# Placa PCB para Estudos de Circuitos Eletrônicos
+## Placa PCB para Estudos de Circuitos Eletrônicos
 
 ## 📌 Descrição
 Projeto desenvolvido para estudo e prática de design de **placas de circuito impresso (PCB)**.  
